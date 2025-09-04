@@ -109,9 +109,9 @@ const Navbar = () => {
         <Link to="" className="block">
           Home
         </Link>
-        <a to="/shop" className="block">
+        <Link to="/shop" className="block">
           Shop
-        </a>
+        </Link>
         <Link to="/about" className="block">
           About
         </Link>
