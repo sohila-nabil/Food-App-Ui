@@ -115,9 +115,9 @@ const Navbar = () => {
         <Link to="/about" className="block">
           About
         </Link>
-        <a to="/contact" className="block">
+        <Link to="/contact" className="block">
           Contact
-        </a>
+        </Link>
         <button className="cursor-pointer px-6 py-2 mt-2 bg-orange-600  hover:bg-orange-700  transition text-white rounded-full text-sm">
           Login
         </button>
